@@ -1,0 +1,13 @@
+html, body, body * {
+  margin: 0;
+  padding: 0;
+}
+html, body {
+  flex: 1;
+  display: flex;
+  height: 100%;
+}
+
+a, a:href, a:hover {
+  text-decoration: none;
+}
